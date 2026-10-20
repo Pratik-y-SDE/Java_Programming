@@ -14,8 +14,6 @@ public class Calendar{
             case "saturday":System.out.println("I'm free!!");break;
             case "sunday":System.out.println("I'm free!!");break;
             default:System.out.println("That's not a day.");break;
-            
-
         }
     }
 }
